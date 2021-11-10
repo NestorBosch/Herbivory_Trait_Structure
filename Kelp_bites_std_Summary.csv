@@ -1,0 +1,23 @@
+year,site,scientific,mass.std.bites_mean,mass.std.bites_sd
+2013,PGN1,Kyphosus bigibbus,21648.92694,33441.95428
+2013,PGN1,Kyphosus sydneyanus,8476.772067,8828.849406
+2013,PGN1,Scarus ghobban,2.723662865,4.717522465
+2013,PGN1,Siganus fuscescens,11.86137,11.40852704
+2013,PGN2,Kyphosus bigibbus,10490.47936,20980.95873
+2013,PGN2,Kyphosus sydneyanus,3900.326099,7483.228388
+2013,PGN2,Scarus ghobban,0,0
+2013,PGN2,Siganus fuscescens,0.947517664,1.895035328
+2019,PGN1,Kyphosus bigibbus,0.530284679,1.021990205
+2019,PGN1,Kyphosus sydneyanus,7.918268629,14.89455633
+2019,PGN1,Parma occidentalis,0,0
+2019,PGN1,Pomacentrus milleri,0,0
+2019,PGN1,Scarus ghobban,0,0
+2019,PGN1,Scarus schlegeli,0,0
+2019,PGN1,Siganus fuscescens,0,0
+2019,PGN2,Kyphosus bigibbus,225.2753992,427.9978069
+2019,PGN2,Kyphosus sydneyanus,27.3034858,38.22729526
+2019,PGN2,Parma occidentalis,0,0
+2019,PGN2,Pomacentrus milleri,0,0
+2019,PGN2,Scarus ghobban,0,0
+2019,PGN2,Scarus schlegeli,0,0
+2019,PGN2,Siganus fuscescens,0.012957039,0.03664804
